@@ -13,4 +13,4 @@
 4. **위젯 및 연동**: `st.selectbox`(운동 종류 선택), `st.slider`(최소 운동 시간 선택) 위젯을 배치하여 화면 내용이 실시간으로 연동되도록 구현
 
 ## 🚀 배포 링크
-- Streamlit Cloud 배포 URL: [여기에 배포된 앱 주소를 입력하세요]
+- Streamlit Cloud 배포 URL: [https://my-app-app-ypha3ifnhfwdsmowzyub2h.streamlit.app/]
